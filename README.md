@@ -148,15 +148,8 @@ You can access the full log history via the "📁 Open Logs" button in the GUI.
 ## 🎓 Developed By
 
 **👩‍💻 Shirly Avrahamoff**  
-Industrial Engineering & IoT @ HIT  
+B.Sc. in Computer Science – HIT, Israel
 📧 shirly212@gmail.com  
 📅 June 2025
 
 ---
-
-## 🔮 Future Ideas
-
-- Support for real sensors (ESP32, Raspberry Pi)
-- Email/SMS alert integration
-- Web/mobile dashboard version
-- Integration with wellness tracking platforms
